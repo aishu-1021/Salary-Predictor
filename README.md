@@ -1,6 +1,6 @@
 # Salary Predictor
 
-A machine learning-powered web app that predicts Data Science salary ranges based on your profile — built with XGBoost, Flask, and a custom dark-themed UI.
+A machine learning-powered web app that predicts Data Science salary ranges based on your profile - built with XGBoost, Flask, and a custom dark-themed UI.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask)
@@ -11,7 +11,7 @@ A machine learning-powered web app that predicts Data Science salary ranges base
 
 ## Live Demo
 
-> Coming soon — deploying on Render
+> https://salary-predictor-j834.onrender.com/
 
 ---
 
@@ -125,17 +125,18 @@ Open your browser and go to http://127.0.0.1:5000
 ## Model Performance
 
 - **Dataset**: 70,000+ US-based data science salaries
-- **Salary Range**: $70,000 – $294,000
+- **Salary Range**: $70,000 - $294,000
 - **Range Coverage**: ~49% of actual salaries fall within the predicted range
 - **Average Range Width**: ~$70,000
 
-A 49% coverage at the 25th–75th percentile range is mathematically expected and aligns with how industry tools like Glassdoor and LinkedIn Salary report ranges.
+A 49% coverage at the 25th - 75th percentile range is mathematically expected and aligns with how industry tools like Glassdoor and LinkedIn Salary report ranges.
 
 ---
 
 ## Screenshots
 
-> Screenshots of your app here after deployment!
+> <img width="1920" height="1522" alt="image" src="https://github.com/user-attachments/assets/0c4a4d23-3f37-4622-8d4d-384545f9a1b0" />
+
 
 ---
 
